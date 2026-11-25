@@ -34,9 +34,10 @@ I am a Software Engineer with **5+ years of commercial experience** architecting
 
 ---
 
-### 🏆 Honors & Publications
+### 🏆 Honors & IEEE Publications
 * **University Rover Challenge (USA):** Technical Leader for IUB Mars Rover Team — **6th Globally (1st in Asia)** (2018) & **10th Globally (2nd in Asia)** (2017).
-* **IEEE Publications:** Co-authored two peer-reviewed IEEE conference papers on autonomous obstacle-avoidance path planning and GPS-based navigation (*IEEE ICCRE 2017*, *IEEE AMS 2017*).
+* **IEEE ICCRE 2017:** [*2D Mapping and Vertex Finding Method for Path Planning in Autonomous Obstacle Avoidance Robotic System*](https://ieeexplore.ieee.org/document/7935038) — [IEEE Xplore](https://ieeexplore.ieee.org/document/7935038)
+* **IEEE AMS 2017:** [*Autonomous Rover Navigation Using GPS Based Path Planning*](https://ieeexplore.ieee.org/document/8424312) — [IEEE Xplore](https://ieeexplore.ieee.org/document/8424312)
 
 ---
 

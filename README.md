@@ -42,5 +42,5 @@ I am a Software Engineer with **5+ years of commercial experience** architecting
 
 ### 📫 Connect With Me
 * **Email:** pranab.theprime@gmail.com
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+* **LinkedIn:** [linkedin](https://www.linkedin.com/in/pranab-csra/)
 * **Organizations:** [@DDCl-BD](https://github.com) · [@ainoviq](https://github.com) · [@OptimoSight](https://github.com/OptimoSight)
